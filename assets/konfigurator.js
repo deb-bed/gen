@@ -91,6 +91,6 @@ function isEmpty(value){
 
 function forwardToId(){
 
-   location.href = "index.html";
+   location.href = "index2.html";
 
 }
